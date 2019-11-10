@@ -3,3 +3,6 @@
 
 # Ignore all jpg files
 *.jpg
+
+# Ignore all checkpoints
+.ipynb_checkpoints
