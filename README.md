@@ -5,3 +5,13 @@ This class project was done in the context of a Deep Learning course, provided a
 We created a neural network, trained on the Open Food Facts dataset, that takes the picture of a garbage as an imput. The output is the composition of the garbage. The goal of this is to advice people on which recycling bin to use. 
 
 Cf. the Power Point presentation for more details on this project. 
+
+**Authors:**
+
+- Mathieu **Deborne**
+- Ludmila **Exbrayat**
+- Skander **Kamoun**
+- Tristan **Mayer**
+- Cyprien **Nielly**
+
+Students of the MSc _Data Science for Business_, joined degree between Ecole polytechnique and HEC Paris.
